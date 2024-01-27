@@ -1,3 +1,5 @@
+//@komment ignore all
+
 #!/usr/bin/env python
 # coding: utf-8
 
